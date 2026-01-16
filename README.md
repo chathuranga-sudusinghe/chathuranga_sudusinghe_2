@@ -39,8 +39,7 @@ Currently transitioning from Data Analytics to **AI & Machine Learning**, with a
 
 ### 🎓 Certifications
 - IBM Data Science Professional Certificate  
-- Google Data Analytics & AI Certificates  
-- SQL for Data Science (UC Davis)  
+- Google Data Analytics & AI Certificates    
 - Microsoft Generative AI & Azure Fundamentals  
 - ETL & Data Pipelines | Prompt Engineering  
 
