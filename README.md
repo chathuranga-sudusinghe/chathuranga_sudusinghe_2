@@ -1,56 +1,32 @@
-👋 Hi, I'm Chathuranga Sudusinghe
+## 👋 Hi, I’m Chathuranga Sudusinghe  
 
-Aspiring **AI-Focused Data Scientist** | Python • SQL • ML • Analytics • Cloud  
+**Research-Oriented Data Scientist | Machine Learning & Deep Learning**
 
-I turn data into **insights, predictive models, and intelligent decision-support systems**.  
-Currently transitioning from Data Analytics to **AI & Machine Learning**, with a strong focus on real-world, research-ready projects.
+I build end-to-end machine learning and data science solutions, focusing on **model development, evaluation, and real-world applicability**. My work emphasizes *why models work*, not just performance metrics.
+
+I’m currently aligned toward **research-ready ML projects**, bridging applied analytics with advanced machine learning as part of my MSc Data Science journey.
 
 ---
 
-### 🚀 What I’m Working On
+### 🔍 What I Work On
 - End-to-end **Machine Learning & Data Science projects**
-- Kaggle notebooks with clean workflows & explanations
-- AI-driven use cases in **healthcare, business, and analytics**
-- Building a strong foundation toward **MSc & research-level Data Science**
+- Clean, well-documented **Kaggle notebooks**
+- Applied ML use cases in **healthcare, analytics, and business**
+- Building strong foundations for **research-level data science**
 
 ---
 
 ### 🧠 Core Skills
-**Data & Programming**  
-- Python, SQL, R  
-- Data Cleaning, EDA, Feature Engineering  
-- Statistical Analysis  
-
-**Machine Learning & AI**  
-- Supervised & Unsupervised Learning  
-- Model Evaluation & Optimization  
-- Foundations of Deep Learning & Generative AI  
-
-**BI & Visualization**  
-- Power BI, Tableau, Excel  
-- Dashboards & Data Storytelling  
-
-**Cloud & Tools**  
-- Google Cloud Platform (GCP)  
-- Microsoft Azure (Data & AI Fundamentals)  
-- GitHub, Kaggle, Jupyter  
+- **Python, SQL, R**  
+- **Machine Learning** (Regression, Classification, Model Evaluation)  
+- **Deep Learning foundations** (ANN, CNN, DNN)  
+- **EDA, Feature Engineering, Data Preprocessing**  
+- **Data Visualization** (Power BI, Tableau, Matplotlib, Plotly)  
+- **Cloud & MLOps fundamentals** (GCP, Azure)
 
 ---
 
-### 🎓 Certifications
-- IBM Data Science Professional Certificate  
-- Google Data Analytics & AI Certificates    
-- Microsoft Generative AI & Azure Fundamentals  
-- ETL & Data Pipelines | Prompt Engineering  
-
----
-
-### 🌍 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe  
-- 🧠 Kaggle: https://www.kaggle.com/indraijthsudusinghe  
+### 🌐 Connect
+- 🔗 LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe  
+- 📊 Kaggle: https://www.kaggle.com/indrajithsudusinghe  
 - 📧 Email: chathuranga.cont@gmail.com  
-
----
-
-⭐ This GitHub represents my **journey toward becoming a professional, research-ready AI Data Scientist**.  
-If you find my work useful, feel free to explore the repositories and connect.
