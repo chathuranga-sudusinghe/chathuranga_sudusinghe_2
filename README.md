@@ -17,7 +17,7 @@ I’m currently aligned toward **research-ready ML projects**, bridging applied 
 ---
 
 ### 🧠 Core Skills
-- **Python, SQL, R**  
+- **Python, SQL**  
 - **Machine Learning** (Regression, Classification, Model Evaluation)  
 - **Deep Learning foundations** (ANN, CNN, DNN)  
 - **EDA, Feature Engineering, Data Preprocessing**  
